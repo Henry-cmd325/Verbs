@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace Verbs.Controllers
+namespace VerbsAPI.Controllers
 {
     [ApiController]
     [Route("[controller]")]

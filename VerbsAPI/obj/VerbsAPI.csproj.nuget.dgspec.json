@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programacion\\Proyectos\\Verbs\\Verbs\\Verbs.csproj": {}
+    "D:\\Programacion\\Proyectos\\Verbs\\VerbsAPI\\VerbsAPI.csproj": {}
   },
   "projects": {
-    "D:\\Programacion\\Proyectos\\Verbs\\Verbs\\Verbs.csproj": {
+    "D:\\Programacion\\Proyectos\\Verbs\\VerbsAPI\\VerbsAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programacion\\Proyectos\\Verbs\\Verbs\\Verbs.csproj",
-        "projectName": "Verbs",
-        "projectPath": "D:\\Programacion\\Proyectos\\Verbs\\Verbs\\Verbs.csproj",
+        "projectUniqueName": "D:\\Programacion\\Proyectos\\Verbs\\VerbsAPI\\VerbsAPI.csproj",
+        "projectName": "VerbsAPI",
+        "projectPath": "D:\\Programacion\\Proyectos\\Verbs\\VerbsAPI\\VerbsAPI.csproj",
         "packagesPath": "C:\\Users\\henry\\.nuget\\packages\\",
-        "outputPath": "D:\\Programacion\\Proyectos\\Verbs\\Verbs\\obj\\",
+        "outputPath": "D:\\Programacion\\Proyectos\\Verbs\\VerbsAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

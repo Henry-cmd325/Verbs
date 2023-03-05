@@ -47,3 +47,8 @@ D:\Programacion\Proyectos\Verbs\VerbsAPI\obj\Debug\net6.0\refint\VerbsAPI.dll
 D:\Programacion\Proyectos\Verbs\VerbsAPI\obj\Debug\net6.0\VerbsAPI.pdb
 D:\Programacion\Proyectos\Verbs\VerbsAPI\obj\Debug\net6.0\VerbsAPI.genruntimeconfig.cache
 D:\Programacion\Proyectos\Verbs\VerbsAPI\obj\Debug\net6.0\ref\VerbsAPI.dll
+D:\Programacion\Proyectos\Verbs\VerbsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Programacion\Proyectos\Verbs\VerbsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Programacion\Proyectos\Verbs\VerbsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Programacion\Proyectos\Verbs\VerbsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Programacion\Proyectos\Verbs\VerbsAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll

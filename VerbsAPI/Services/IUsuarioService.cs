@@ -9,6 +9,7 @@ namespace VerbsAPI.Services
         public ServerResponse<UserResponse> PostUsuario(UserRequest request);
         public ServerResponse<UserResponse> PutUsuario(int id, UserRequest request);
         public ServerResponse<UserResponse> LoginUsuario(UserRequest request);
+        public string GenerateToken(UserRequest request, IConfiguration config);
         public bool Delete(int id);
     }
 }

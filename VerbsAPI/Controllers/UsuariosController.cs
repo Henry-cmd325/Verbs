@@ -11,9 +11,11 @@ namespace VerbsAPI.Controllers
     public class UsuariosController : ControllerBase
     {
         private readonly IUsuarioService _service;
-        public UsuariosController(IUsuarioService service)
+        private readonly IConfiguration _config;
+        public UsuariosController(IUsuarioService service, IConfiguration config)
         {
             _service = service;
+            _config = config;
         }
 
         [HttpGet("{id}", Name = "GetUsuario")]
@@ -43,7 +45,7 @@ namespace VerbsAPI.Controllers
 
             if (!response.Success) return BadRequest(response);
 
-            return Ok(request);
+            return Ok(new {Token = _service.GenerateToken(request, _config)});
         }
 
         [HttpPut("{id}")]
